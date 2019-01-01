@@ -1,0 +1,1027 @@
+﻿Log file open, 12/24/18 14:36:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BeatBattle
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.463199
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.189s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.28.0
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU           E5645  @ 2.40GHz, GPU: NVIDIA GeForce GTX 750 Ti
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=thecomediclife -epicuserid=b8e395c9f4d04fd780ec6f4c8c5b43b1 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Engine.ini]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Engine.ini]
+[2018.12.24-22.36.39:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Engine.ini]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Engine.ini]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.24-22.36.39:388][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.24-22.36.39:389][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Engine.ini]
+[2018.12.24-22.36.39:389][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Engine.ini]
+[2018.12.24-22.36.39:392][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.24-22.36.39:392][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.24-22.36.39:392][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.24-22.36.39:392][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.24-22.36.39:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.24-22.36.39:394][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.24-22.36.39:395][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.24-22.36.39:395][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.24-22.36.39:395][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:395][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.24-22.36.39:395][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.24-22.36.39:395][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.24-22.36.39:395][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.24-22.36.39:421][  0]LogHAL: Display: Platform has ~ 12 GB [12875771904 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.24-22.36.39:421][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.24-22.36.39:422][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.24-22.36.39:422][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.24-22.36.39:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.24-22.36.39:423][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.24-22.36.39:424][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:424][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.24-22.36.39:424][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.24-22.36.39:424][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.24-22.36.39:424][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.24-22.36.39:424][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Scalability.ini]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.24-22.36.39:425][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.24-22.36.39:426][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.24-22.36.39:426][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Config/Windows/Engine.ini]
+[2018.12.24-22.36.39:426][  0]LogInit: Computer: DESKTOP-42U0TAF
+[2018.12.24-22.36.39:426][  0]LogInit: User: theco
+[2018.12.24-22.36.39:426][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.24-22.36.39:426][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.12.24-22.36.39:426][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2018.12.24-22.36.39:426][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.24-22.36.39:426][  0]LogMemory: Process Physical Memory: 106.57 MB used, 106.58 MB peak
+[2018.12.24-22.36.39:426][  0]LogMemory: Process Virtual Memory: 90.02 MB used, 90.02 MB peak
+[2018.12.24-22.36.39:427][  0]LogMemory: Physical Memory: 5406.54 MB used,  6872.75 MB free, 12279.29 MB total
+[2018.12.24-22.36.39:427][  0]LogMemory: Virtual Memory: 4682.46 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2018.12.24-22.36.39:463][  0]LogInit: Using OS detected language (en-US).
+[2018.12.24-22.36.39:463][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.24-22.36.39:465][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.24-22.36.40:060][  0]LogStreaming: Display: Took  0.597s to InitEngineTextLocalization.
+[2018.12.24-22.36.40:061][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.24-22.36.40:113][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.24-22.36.40:113][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.24-22.36.40:476][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.24-22.36.40:476][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.24-22.36.40:573][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.12.24-22.36.40:573][  0]LogD3D11RHI:       2007/0/6139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.24-22.36.40:577][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.24-22.36.40:577][  0]LogD3D11RHI:       0/0/6139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.24-22.36.40:577][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.24-22.36.40:588][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.24-22.36.40:588][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.24-22.36.40:588][  0]LogWindows: EnumDisplayDevices:
+[2018.12.24-22.36.40:588][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.12.24-22.36.40:588][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.12.24-22.36.40:589][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.12.24-22.36.40:589][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.12.24-22.36.40:590][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.24-22.36.40:590][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.12.24-22.36.40:590][  0]LogD3D11RHI:   Driver Version: 416.16 (internal:25.21.14.1616, unified:416.16)
+[2018.12.24-22.36.40:590][  0]LogD3D11RHI:      Driver Date: 10-2-2018
+[2018.12.24-22.36.40:590][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2018.12.24-22.36.40:676][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.24-22.36.40:701][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.24-22.36.41:262][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.24-22.36.41:286][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.24-22.36.41:311][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.24-22.36.41:334][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.24-22.36.41:359][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.24-22.36.41:381][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.24-22.36.41:405][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.24-22.36.41:431][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.24-22.36.41:443][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-22.36.41:590][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.24-22.36.41:675][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.24-22.36.41:675][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.24-22.36.41:722][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.24-22.36.41:723][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.24-22.36.41:747][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.24-22.36.41:772][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.24-22.36.41:797][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.24-22.36.41:819][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.24-22.36.41:893][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.24-22.36.41:893][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.24-22.36.41:893][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.24-22.36.41:996][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Intermediate/Shaders/WorkingDirectory/5720/).
+[2018.12.24-22.36.41:996][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/theco/AppData/Local/Temp/UnrealShaderWorkingDir/7273065F495FDA863FDFBAB5C5B8AA04/'.
+[2018.12.24-22.36.41:999][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.24-22.36.41:999][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.24-22.36.41:999][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.24-22.36.42:932][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.24-22.36.43:015][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/theco/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.24-22.36.43:015][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/theco/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.24-22.36.43:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.24-22.36.43:015][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.24-22.36.43:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.24-22.36.43:015][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.24-22.36.43:035][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.24-22.36.43:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.24-22.36.43:035][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.24-22.36.43:047][  0]LogDerivedDataCache: Using Local data cache path C:/Users/theco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.24-22.36.43:047][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.24-22.36.43:047][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.24-22.36.43:092][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.24-22.36.43:095][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.24-22.36.43:096][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.24-22.36.43:229][  0]LogAssetRegistry: FAssetRegistry took 0.0443 seconds to start up
+[2018.12.24-22.36.43:871][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.24-22.36.44:170][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.24-22.36.44:177][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.24-22.36.44:177][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.24-22.36.44:177][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.24-22.36.44:177][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.24-22.36.44:200][  0]LogNetVersion: BeatBattle 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1815852958)
+[2018.12.24-22.36.45:217][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.175595 seconds
+[2018.12.24-22.36.45:225][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.24-22.36.45:225][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.24-22.36.45:225][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.24-22.36.46:238][  0]LogWmfMedia: Failed to load mf.dll
+[2018.12.24-22.36.46:238][  0]LogWmfMedia: Failed to load required Windows Media Foundation libraries
+[2018.12.24-22.36.46:248][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2018.12.24-22.36.46:249][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2018.12.24-22.36.46:250][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2018.12.24-22.36.46:698][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.24-22.36.46:713][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.24-22.36.47:833][  0]SourceControl: Source control is disabled
+[2018.12.24-22.36.47:833][  0]SourceControl: Source control is disabled
+[2018.12.24-22.36.47:835][  0]SourceControl: Source control is disabled
+[2018.12.24-22.36.47:838][  0]SourceControl: Source control is disabled
+[2018.12.24-22.36.48:064][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.24-22.36.48:208][  0]LogOcInput: OculusInput pre-init called
+[2018.12.24-22.36.48:395][  0]LogEngine: Initializing Engine...
+[2018.12.24-22.36.48:431][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.24-22.36.48:434][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.24-22.36.48:434][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.24-22.36.48:434][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.24-22.36.48:434][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.24-22.36.48:886][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.24-22.36.48:909][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.24-22.36.48:966][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.24-22.36.49:018][  0]LogInit: FAudioDevice initialized.
+[2018.12.24-22.36.49:018][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.24-22.36.49:156][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/theco/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.24-22.36.49:169][  0]LogInit: Texture streaming: Enabled
+[2018.12.24-22.36.49:197][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.24-22.36.49:220][  0]LogInit: Transaction tracking system initialized
+[2018.12.24-22.36.49:263][  0]BlueprintLog: New page: Editor Load
+[2018.12.24-22.36.49:395][  0]LocalizationService: Localization service is disabled
+[2018.12.24-22.36.50:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theco/Desktop/BeatBattle/BeatBattle/Content/' took 0.01s
+[2018.12.24-22.36.50:207][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.24-22.36.50:207][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.24-22.36.50:208][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.24-22.36.50:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.24-22.36.50:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.24-22.36.50:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.24-22.36.50:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.24-22.36.50:431][  0]SourceControl: Source control is disabled
+[2018.12.24-22.36.50:432][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.24-22.36.50:432][  0]LightingResults: New page: Lighting Build
+[2018.12.24-22.36.50:437][  0]MapCheck: New page: Map Check
+[2018.12.24-22.36.50:437][  0]LightingResults: New page: Lighting Build
+[2018.12.24-22.36.50:773][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.24-22.36.50:786][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.24-22.36.50:820][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.24-22.36.50:821][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.355ms to complete.
+[2018.12.24-22.36.50:821][  0]LogFileHelpers: Loading map 'Template_Default' took 0.389
+[2018.12.24-22.36.50:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-22.36.51:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-22.36.51:013][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-22.36.51:029][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-22.36.51:050][  0]LogCollectionManager: Loaded 0 collections in 0.004095 seconds
+[2018.12.24-22.36.51:091][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Collections/' took 0.01s
+[2018.12.24-22.36.51:091][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theco/Desktop/BeatBattle/BeatBattle/Content/Developers/theco/Collections/' took 0.00s
+[2018.12.24-22.36.51:091][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theco/Desktop/BeatBattle/BeatBattle/Content/Collections/' took 0.00s
+[2018.12.24-22.36.51:091][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.24-22.36.51:114][  0]LogContentBrowser: Native class hierarchy populated in 0.0212 seconds. Added 2651 classes and 620 folders.
+[2018.12.24-22.36.51:135][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.24-22.36.51:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:283][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.24-22.36.51:746][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.24-22.36.51:765][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.24-22.36.51:855][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.24-22.36.51:858][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.24-22.36.51:878][  0]LogSlate: Took 0.008235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.24-22.36.52:122][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.24-22.36.52:340][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-22.36.52:400][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.12.24-22.36.52:433][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.24-22.36.52:433][  0]LogLoad: (Engine Initialization) Total time: 16.88 seconds
+[2018.12.24-22.36.52:433][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.24-22.36.52:514][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.24-22.36.52:682][  2]LogAssetRegistry: Asset discovery search completed in 9.4756 seconds
+[2018.12.24-22.36.52:685][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.24-22.36.52:685][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.12.24-22.36.53:479][ 80]LogSlate: Took 0.007412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.24-22.36.56:573][420]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.24-22.44.21:310][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-22.51.57:167][133]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\theco\Downloads\Soft_and_Furious_-_01_-_You_Are_Shining.mp3)
+[2018.12.24-22.52.01:909][601]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Soft_and_Furious_-_01_-_You_Are_C9EC6D1C4542AB011872A3BAAEC3F4B0.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Audio/Music/Soft_and_Furious_-_01_-_You_Are_Shining_180BPM.uasset'
+[2018.12.24-22.52.04:351][842]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/Audio/Music/Soft_and_Furious_-_01_-_You_Are_Shining_180BPM.Soft_and_Furious_-_01_-_You_Are_Shining_180BPM
+[2018.12.24-22.52.07:374][108]LogSlate: Window 'Soft_and_Furious_-_01_-_You_Are_Shining_180BPM - Generic Asset Editor' being destroyed
+[2018.12.24-22.52.07:381][108]LogSlate: Window 'Soft_and_Furious_-_01_-_You_Are_Shining_180BPM - Generic Asset Editor' being destroyed
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.PlayerCharacter_Pawn_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.PlayerCharacter_Pawn_BP_C' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.SKEL_PlayerCharacter_Pawn_BP_C:TrueVar' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.SKEL_PlayerCharacter_Pawn_BP_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.SKEL_PlayerCharacter_Pawn_BP_C:GridMovementComponent' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.SKEL_PlayerCharacter_Pawn_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.SKEL_PlayerCharacter_Pawn_BP_C' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.PlayerCharacter_Pawn_BP_C:TrueVar' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.PlayerCharacter_Pawn_BP_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.PlayerCharacter_Pawn_BP_C:GridMovementComponent' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:788][327]LogMetaData: Removing '/Game/Blueprints/Player/PlayerCharacter_Pawn_BP.PlayerCharacter_Pawn_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlayerCharacter_Pawn_BP.PackageMetaData'
+[2018.12.24-23.14.56:832][327]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/PlayerCharacter_Pawn_BPBF48082644A014182681C7ADFE8E70C9.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/Player/PlayerCharacter_Pawn_BP.uasset'
+[2018.12.24-23.15.03:049][930]LogMetaData: Removing '/Game/Blueprints/Components/GridMovementComponent.GridMovementComponent_C' ref from Metadata '/Game/Blueprints/GridMovementComponent.PackageMetaData'
+[2018.12.24-23.15.03:049][930]LogMetaData: Removing '/Game/Blueprints/Components/GridMovementComponent.GridMovementComponent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/GridMovementComponent.PackageMetaData'
+[2018.12.24-23.15.03:049][930]LogMetaData: Removing '/Game/Blueprints/Components/GridMovementComponent.GridMovementComponent:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/GridMovementComponent.PackageMetaData'
+[2018.12.24-23.15.03:049][930]LogMetaData: Removing '/Game/Blueprints/Components/GridMovementComponent.SKEL_GridMovementComponent_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/GridMovementComponent.PackageMetaData'
+[2018.12.24-23.15.03:049][930]LogMetaData: Removing '/Game/Blueprints/Components/GridMovementComponent.SKEL_GridMovementComponent_C:ReceiveTick' ref from Metadata '/Game/Blueprints/GridMovementComponent.PackageMetaData'
+[2018.12.24-23.15.03:049][930]LogMetaData: Removing '/Game/Blueprints/Components/GridMovementComponent.SKEL_GridMovementComponent_C' ref from Metadata '/Game/Blueprints/GridMovementComponent.PackageMetaData'
+[2018.12.24-23.15.03:084][930]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/GridMovementComponent0624A85E4A7E0D08AFCA688F755D8D72.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/Components/GridMovementComponent.uasset'
+[2018.12.24-23.15.03:320][930]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/PlayerCharacter_Pawn_BP7736A2BD42457256983974BABBD55129.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/Player/PlayerCharacter_Pawn_BP.uasset'
+[2018.12.24-23.15.06:112][112]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.24-23.15.11:151][618]LogSlate: Took 0.006998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.24-23.15.12:824][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-23.15.18:773][207]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/RhythmManager/RhythmManager.RhythmManager
+[2018.12.24-23.15.20:027][207]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 117 classes and 0 folders.
+[2018.12.24-23.15.23:697][273]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:66).
+[2018.12.24-23.15.23:743][278]LogSlate: Window 'RhythmManager*' being destroyed
+[2018.12.24-23.15.24:854][381]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/RhythmManager97E780FB4CD11196D0C9D29E2C82D46D.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/RhythmManager/RhythmManager.uasset'
+[2018.12.24-23.15.52:336][506]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/RhythmManager/GameplayBGM_Struct.GameplayBGM_Struct
+[2018.12.24-23.15.58:015][ 91]LogSlate: Took 0.006396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.24-23.16.14:983][ 85]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/GameplayBGM_Struct8E13DEF64F1BD457216C3C83887ADE66.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/RhythmManager/GameplayBGM_Struct.uasset'
+[2018.12.24-23.16.35:283][408]BlueprintLog: New page: Compile RhythmManager
+[2018.12.24-23.16.36:040][448]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/RhythmManager6C2094C74AA96C515381B985E1A71AFE.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/RhythmManager/RhythmManager.uasset'
+[2018.12.24-23.17.16:996][715]LogMetaData: Removing '/Game/Audio/Music/Soft_and_Furious-You_Are_Shining_180BPM_SoundCue.Soft_and_Furious-You_Are_Shining_180BPM_SoundCue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Audio/Music/Soft_and_Furious-You_Are_Shining_180BPM.PackageMetaData'
+[2018.12.24-23.17.17:030][715]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Soft_and_Furious-You_Are_ShiningC84C1FC64744C7E19AF0A1BAC0C1C5AA.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Audio/Music/Soft_and_Furious-You_Are_Shining_180BPM_SoundCue.uasset'
+[2018.12.24-23.17.19:374][859]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Audio/Music/Soft_and_Furious-You_Are_Shining_180BPM_SoundCue.Soft_and_Furious-You_Are_Shining_180BPM_SoundCue
+[2018.12.24-23.17.19:499][859]LogSlate: Took 0.006280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.24-23.17.56:832][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.24-23.17.56:894][ 30]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Untitled_1_Auto10D12CA1741135D7A862FD19980521F24.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.12.24-23.17.56:904][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.113
+[2018.12.24-23.17.56:904][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.113
+[2018.12.24-23.17.56:908][ 30]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RhythmManager/RhythmManager] ([1] browsable assets)...
+[2018.12.24-23.17.56:908][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RhythmManager/RhythmManager]
+[2018.12.24-23.17.56:928][ 30]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/RhythmManager_Auto1F2F05597404D263012FDDEB7BE06C40A.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Autosaves/Game/Blueprints/RhythmManager/RhythmManager_Auto1.uasset'
+[2018.12.24-23.17.56:930][ 30]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.12.24-23.18.37:855][392]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.24-23.18.59:557][552]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\theco\Downloads\Soft_and_Furious_-_01_-_You_Are_Shining.wav)
+[2018.12.24-23.19.01:390][657]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Soft_and_Furious_-_01_-_You_Are_Shining...
+[2018.12.24-23.19.06:147][657]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 29811600 while cooking SoundWave /Game/Audio/Music/Soft_and_Furious_-_01_-_You_Are_Shining.Soft_and_Furious_-_01_-_You_Are_Shining.
+[2018.12.24-23.19.14:134][202]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Soft_and_Furious_-_01_-_You_Are_C4684E7E4B0E7B975A3B09AA64439B9F.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Audio/Music/Soft_and_Furious_-_01_-_You_Are_Shining_180BPM.uasset'
+[2018.12.24-23.19.20:412][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-23.19.25:097][259]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Soft_and_Furious-You_Are_Shining3F754A4A4F6296FCBBB6A8BC7D2DBD1B.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Audio/Music/Soft_and_Furious-You_Are_Shining_180BPM_SoundCue.uasset'
+[2018.12.24-23.19.37:346][658]BlueprintLog: New page: Compile RhythmManager
+[2018.12.24-23.19.38:029][698]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/RhythmManager1214138E4FC2680C09A44C885710800D.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/RhythmManager/RhythmManager.uasset'
+[2018.12.24-23.22.19:402][805]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\theco\Downloads\icons8-music-50.png)
+[2018.12.24-23.22.19:411][805]LogTexture: Display: Building textures: icons8-music-50 (BGRA8, 50X50)
+[2018.12.24-23.22.32:833][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/icons8-music-50" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Art/icons8-music-50.uasset" SILENT=true
+[2018.12.24-23.22.32:845][758]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/icons8-music-504651720A40FCC3F5E460EB9EDC5C44A5.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Art/icons8-music-50.uasset'
+[2018.12.24-23.23.22:995][169]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\theco\Downloads\icons8-musical-50.png)
+[2018.12.24-23.23.22:999][169]LogTexture: Display: Building textures: icons8-musical-50 (BGRA8, 50X50)
+[2018.12.24-23.23.27:164][343]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.24-23.23.33:278][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-23.23.33:878][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-23.23.33:881][766]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/RhythmManager/RhythmManager.RhythmManager
+[2018.12.24-23.23.39:805][  8]BlueprintLog: New page: Compile RhythmManager
+[2018.12.24-23.23.40:986][ 48]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/RhythmManager386B4DED40A6894CAD6AEC96DF9413B4.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/RhythmManager/RhythmManager.uasset'
+[2018.12.24-23.23.41:473][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-23.23.43:702][173]LogSlate: Window 'RhythmManager' being destroyed
+[2018.12.24-23.23.44:106][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-23.23.48:734][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-23.23.49:371][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/icons8-musical-50" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Art/icons8-musical-50.uasset" SILENT=true
+[2018.12.24-23.23.49:382][614]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/icons8-musical-50237EB79C4EC84A79EE652CA8F0682BB4.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Art/icons8-musical-50.uasset'
+[2018.12.24-23.27.57:362][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.24-23.27.57:617][398]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Untitled_1_Auto2E0E71D05429810AC4E2815ABD64DD681.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2018.12.24-23.27.57:623][398]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.300
+[2018.12.24-23.27.57:623][398]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.300
+[2018.12.25-00.13.16:046][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.25-00.21.23:517][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.25-00.21.23:524][231]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\theco\Downloads\icons8-musical-notes-50.png)
+[2018.12.25-00.21.23:529][231]LogTexture: Display: Building textures: icons8-musical-notes-50 (BGRA8, 50X50)
+[2018.12.25-00.21.31:415][883]BlueprintLog: New page: Compile RhythmManager
+[2018.12.25-00.21.32:234][929]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/RhythmManagerF3CB07E4470214E5EAA6EFBF24924E94.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/RhythmManager/RhythmManager.uasset'
+[2018.12.25-00.21.41:318][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.25-00.21.46:501][130]BlueprintLog: New page: Compile RhythmManager
+[2018.12.25-00.21.47:171][162]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/RhythmManager6B20362B4A1053CC83E85FBCA0FC99ED.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/RhythmManager/RhythmManager.uasset'
+[2018.12.25-00.21.49:581][251]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.25-00.21.55:201][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.25-00.22.13:048][898]LogSlate: Window 'Save Level As' being destroyed
+[2018.12.25-00.22.13:312][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level11" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level11.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.25-00.22.13:589][898]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Level113FADACB94C3217ABDD885A9D73D6BBF5.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level11.umap'
+[2018.12.25-00.22.13:637][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level11_BuiltData" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level11_BuiltData.uasset" SILENT=true
+[2018.12.25-00.22.13:667][898]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Level11_BuiltData0A6914084B9AA58ED835E788B8211DDD.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level11_BuiltData.uasset'
+[2018.12.25-00.22.13:680][898]LogFileHelpers: Saving map 'Level11' took 0.622
+[2018.12.25-00.22.17:638][183]LogMetaData: Removing '/Game/Maps/Level1.SKEL_Level1_C' ref from Metadata '/Game/Maps/Level11.PackageMetaData'
+[2018.12.25-00.22.17:638][183]LogMetaData: Removing '/Game/Maps/Level1.Level1_C' ref from Metadata '/Game/Maps/Level11.PackageMetaData'
+[2018.12.25-00.22.17:638][183]LogMetaData: Removing '/Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/Level11.PackageMetaData'
+[2018.12.25-00.22.17:638][183]LogMetaData: Removing '/Game/Maps/Level1.Level1:PersistentLevel.Level1.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/Level11.PackageMetaData'
+[2018.12.25-00.22.17:661][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2018.12.25-00.22.17:683][183]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Level1_BuiltData37DB11AA42AED889A4C9B88288096F8D.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level1_BuiltData.uasset'
+[2018.12.25-00.22.17:692][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.25-00.22.17:985][183]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Level1F6B20C2944118E5C74EAE08B6657A189.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level1.umap'
+[2018.12.25-00.22.18:031][183]LogFileHelpers: Saving map 'Level1' took 0.340
+[2018.12.25-00.22.21:851][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.25-00.32.17:402][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Autosaves/Game/Maps/Level1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.25-00.32.17:659][746]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Level1_Auto3EFF0AF28494881B85CC2BB92BA3F4B05.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Autosaves/Game/Maps/Level1_Auto3.umap'
+[2018.12.25-00.32.17:664][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.300
+[2018.12.25-00.32.17:664][746]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.300
+[2018.12.25-00.32.17:667][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RhythmManager/RhythmManager] ([1] browsable assets)...
+[2018.12.25-00.32.17:667][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RhythmManager/RhythmManager]
+[2018.12.25-00.32.17:698][746]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/RhythmManager_Auto33D70A07B4C5613B9CDB10BB377DBEE68.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Autosaves/Game/Blueprints/RhythmManager/RhythmManager_Auto3.uasset'
+[2018.12.25-00.32.17:699][746]LogFileHelpers: Auto-saving content packages took 0.033
+[2018.12.25-00.35.06:497][218]BlueprintLog: New page: Compile RhythmManager
+[2018.12.25-00.35.07:301][268]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/RhythmManager6CAD03414241A9889D1E438CEB86F17E.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Blueprints/RhythmManager/RhythmManager.uasset'
+[2018.12.25-00.37.26:416][491]LogSlate: Window 'Import Key Bindings' being destroyed
+[2018.12.25-00.37.26:445][492]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.12.25-00.37.27:882][492]LogSlate: Window 'Save Content' being destroyed
+[2018.12.25-00.37.27:906][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.25-00.37.28:241][492]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Saved/Level1AD0623CD439F5AF78805E4953ADF14A9.tmp' to '../../../../../../Users/theco/Desktop/BeatBattle/BeatBattle/Content/Maps/Level1.umap'
+[2018.12.25-00.37.28:362][492]LogFileHelpers: Saving map 'Level1' took 0.457
+[2018.12.25-00.37.28:728][492]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.12.25-00.37.28:961][492]LogSlate: Window 'BeatBattle - Unreal Editor' being destroyed
+[2018.12.25-00.37.28:962][492]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.25-00.37.29:338][493]Cmd: QUIT_EDITOR
+[2018.12.25-00.37.29:424][493]LogExit: Preparing to exit.
+[2018.12.25-00.37.30:562][493]LogExit: Editor shut down
+[2018.12.25-00.37.30:563][493]LogExit: Transaction tracking system shut down
+[2018.12.25-00.37.31:026][493]LogExit: Object subsystem successfully closed.
+[2018.12.25-00.37.31:069][493]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.25-00.37.31:079][493]LogD3D11RHI: Shutdown
+[2018.12.25-00.37.31:079][493]LogD3D11RHI: CleanupD3DDevice
+[2018.12.25-00.37.31:087][493]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.25-00.37.31:171][493]LogModuleManager: Shutting down and abandoning module BlueprintGraph (626)
+[2018.12.25-00.37.31:171][493]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2018.12.25-00.37.31:171][493]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2018.12.25-00.37.31:171][493]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2018.12.25-00.37.31:175][493]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2018.12.25-00.37.31:175][493]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2018.12.25-00.37.31:176][493]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2018.12.25-00.37.31:176][493]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2018.12.25-00.37.31:177][493]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.25-00.37.31:178][493]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.25-00.37.31:178][493]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.25-00.37.31:180][493]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.25-00.37.31:180][493]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.25-00.37.31:180][493]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.25-00.37.31:180][493]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.25-00.37.31:180][493]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.25-00.37.31:180][493]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.25-00.37.31:180][493]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.25-00.37.31:182][493]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.25-00.37.31:182][493]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.25-00.37.31:182][493]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.25-00.37.31:182][493]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.12.25-00.37.31:183][493]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.12.25-00.37.31:185][493]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.12.25-00.37.31:186][493]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.12.25-00.37.31:187][493]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.12.25-00.37.31:187][493]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.12.25-00.37.31:187][493]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.12.25-00.37.31:187][493]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.12.25-00.37.31:187][493]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.12.25-00.37.31:187][493]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.12.25-00.37.31:188][493]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.12.25-00.37.31:190][493]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.12.25-00.37.31:191][493]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.12.25-00.37.31:191][493]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.12.25-00.37.31:191][493]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.12.25-00.37.31:191][493]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.12.25-00.37.31:191][493]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.12.25-00.37.31:191][493]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.12.25-00.37.31:193][493]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.12.25-00.37.31:194][493]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.12.25-00.37.31:195][493]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.12.25-00.37.31:196][493]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.12.25-00.37.31:196][493]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.12.25-00.37.31:196][493]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.12.25-00.37.31:196][493]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.12.25-00.37.31:196][493]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.12.25-00.37.31:780][493]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.12.25-00.37.31:781][493]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.12.25-00.37.31:781][493]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.12.25-00.37.31:781][493]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.12.25-00.37.31:781][493]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.12.25-00.37.31:781][493]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.12.25-00.37.31:781][493]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.12.25-00.37.31:781][493]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.12.25-00.37.31:782][493]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.12.25-00.37.31:783][493]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.12.25-00.37.31:783][493]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.12.25-00.37.31:783][493]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.12.25-00.37.31:784][493]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.12.25-00.37.31:784][493]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.12.25-00.37.31:784][493]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.12.25-00.37.31:784][493]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.12.25-00.37.31:785][493]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.12.25-00.37.31:785][493]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.12.25-00.37.31:785][493]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.12.25-00.37.31:787][493]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.12.25-00.37.31:787][493]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.12.25-00.37.31:787][493]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.12.25-00.37.31:788][493]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.12.25-00.37.31:843][493]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.12.25-00.37.31:844][493]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.12.25-00.37.31:844][493]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.12.25-00.37.31:846][493]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.12.25-00.37.31:847][493]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.12.25-00.37.31:847][493]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.12.25-00.37.31:847][493]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.12.25-00.37.31:848][493]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.12.25-00.37.31:848][493]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.12.25-00.37.31:848][493]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.12.25-00.37.31:854][493]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.12.25-00.37.31:854][493]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.12.25-00.37.31:855][493]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.12.25-00.37.31:855][493]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.25-00.37.31:856][493]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.25-00.37.31:856][493]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.25-00.37.31:856][493]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.25-00.37.31:856][493]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.25-00.37.31:856][493]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.25-00.37.31:856][493]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.25-00.37.31:857][493]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.25-00.37.31:857][493]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.25-00.37.31:857][493]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.25-00.37.31:857][493]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.25-00.37.31:857][493]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.25-00.37.31:857][493]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.25-00.37.31:857][493]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.25-00.37.31:858][493]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.25-00.37.31:859][493]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.25-00.37.31:859][493]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.25-00.37.31:859][493]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.12.25-00.37.31:860][493]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.12.25-00.37.31:865][493]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.25-00.37.32:095][493]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.25-00.37.32:097][493]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.25-00.37.32:097][493]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.25-00.37.32:097][493]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.25-00.37.32:097][493]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.25-00.37.32:097][493]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.25-00.37.32:097][493]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.25-00.37.32:097][493]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.25-00.37.32:097][493]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.25-00.37.32:098][493]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.25-00.37.32:098][493]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.25-00.37.32:098][493]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.25-00.37.32:098][493]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.25-00.37.32:098][493]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.25-00.37.32:098][493]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.25-00.37.32:098][493]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.25-00.37.32:099][493]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.25-00.37.32:105][493]LogModuleManager: Shutting down and abandoning module Media (365)
+[2018.12.25-00.37.32:112][493]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.25-00.37.32:112][493]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.25-00.37.32:112][493]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.25-00.37.32:112][493]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2018.12.25-00.37.32:113][493]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2018.12.25-00.37.32:116][493]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2018.12.25-00.37.32:117][493]LogModuleManager: Shutting down and abandoning module PolygonModeling (330)
+[2018.12.25-00.37.32:117][493]LogModuleManager: Shutting down and abandoning module MeshEditor (328)
+[2018.12.25-00.37.32:117][493]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (326)
+[2018.12.25-00.37.32:118][493]LogModuleManager: Shutting down and abandoning module CryptoKeys (324)
+[2018.12.25-00.37.32:118][493]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2018.12.25-00.37.32:118][493]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (320)
+[2018.12.25-00.37.32:118][493]LogModuleManager: Shutting down and abandoning module UObjectPlugin (318)
+[2018.12.25-00.37.32:118][493]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (316)
+[2018.12.25-00.37.32:118][493]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (314)
+[2018.12.25-00.37.32:119][493]LogModuleManager: Shutting down and abandoning module GitSourceControl (312)
+[2018.12.25-00.37.32:121][493]LogModuleManager: Shutting down and abandoning module SourceControl (311)
+[2018.12.25-00.37.32:121][493]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (308)
+[2018.12.25-00.37.32:121][493]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2018.12.25-00.37.32:121][493]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2018.12.25-00.37.32:121][493]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2018.12.25-00.37.32:122][493]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2018.12.25-00.37.32:122][493]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2018.12.25-00.37.32:122][493]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2018.12.25-00.37.32:124][493]LogModuleManager: Shutting down and abandoning module MeshPaint (295)
+[2018.12.25-00.37.32:124][493]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2018.12.25-00.37.32:124][493]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2018.12.25-00.37.32:124][493]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2018.12.25-00.37.32:124][493]LogModuleManager: Shutting down and abandoning module OculusEditor (286)
+[2018.12.25-00.37.32:125][493]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2018.12.25-00.37.32:125][493]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2018.12.25-00.37.32:125][493]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2018.12.25-00.37.32:225][493]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2018.12.25-00.37.32:327][493]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (276)
+[2018.12.25-00.37.32:327][493]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (274)
+[2018.12.25-00.37.32:327][493]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (272)
+[2018.12.25-00.37.32:327][493]LogModuleManager: Shutting down and abandoning module FacialAnimation (270)
+[2018.12.25-00.37.32:327][493]LogModuleManager: Shutting down and abandoning module DataValidation (268)
+[2018.12.25-00.37.32:327][493]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (266)
+[2018.12.25-00.37.32:327][493]LogModuleManager: Shutting down and abandoning module LevelEditor (265)
+[2018.12.25-00.37.32:330][493]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (264)
+[2018.12.25-00.37.32:331][493]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (262)
+[2018.12.25-00.37.32:332][493]LogModuleManager: Shutting down and abandoning module MainFrame (260)
+[2018.12.25-00.37.32:332][493]LogModuleManager: Shutting down and abandoning module HotReload (259)
+[2018.12.25-00.37.32:333][493]LogModuleManager: Shutting down and abandoning module ContentBrowser (255)
+[2018.12.25-00.37.32:336][493]LogModuleManager: Shutting down and abandoning module TreeMap (253)
+[2018.12.25-00.37.32:336][493]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (250)
+[2018.12.25-00.37.32:336][493]LogModuleManager: Shutting down and abandoning module AISupportModule (248)
+[2018.12.25-00.37.32:336][493]LogModuleManager: Shutting down and abandoning module Paper2D (246)
+[2018.12.25-00.37.32:337][493]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (244)
+[2018.12.25-00.37.32:337][493]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (242)
+[2018.12.25-00.37.32:337][493]LogModuleManager: Shutting down and abandoning module WmfMedia (240)
+[2018.12.25-00.37.32:339][493]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.25-00.37.32:339][493]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.25-00.37.32:339][493]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.25-00.37.32:340][493]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.25-00.37.32:340][493]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.25-00.37.32:340][493]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.25-00.37.32:340][493]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.25-00.37.32:340][493]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.25-00.37.32:340][493]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.25-00.37.32:340][493]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.25-00.37.32:341][493]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.25-00.37.32:341][493]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.25-00.37.32:342][493]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.25-00.37.32:342][493]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.25-00.37.32:343][493]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.25-00.37.32:344][493]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.25-00.37.32:347][493]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.25-00.37.32:347][493]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.25-00.37.32:350][493]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.25-00.37.32:350][493]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.25-00.37.32:354][493]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.25-00.37.32:355][493]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.25-00.37.32:355][493]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.25-00.37.32:357][493]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.25-00.37.32:357][493]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.25-00.37.32:357][493]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.25-00.37.32:357][493]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.25-00.37.32:357][493]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.25-00.37.32:358][493]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.25-00.37.32:434][493]LogDerivedDataCache: Shutdown
+[2018.12.25-00.37.32:434][493]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.25-00.37.32:434][493]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.25-00.37.32:435][493]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.25-00.37.32:435][493]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.25-00.37.32:436][493]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.25-00.37.32:436][493]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.25-00.37.32:436][493]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.25-00.37.32:438][493]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.25-00.37.32:438][493]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.25-00.37.32:438][493]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.25-00.37.32:438][493]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.25-00.37.32:438][493]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.25-00.37.32:439][493]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.25-00.37.32:439][493]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.25-00.37.32:439][493]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.25-00.37.32:439][493]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.25-00.37.32:439][493]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.25-00.37.32:439][493]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.25-00.37.32:453][493]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.25-00.37.32:453][493]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.25-00.37.32:453][493]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.25-00.37.32:453][493]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.25-00.37.32:453][493]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.25-00.37.32:461][493]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.25-00.37.32:461][493]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.25-00.37.32:468][493]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.25-00.37.32:468][493]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.25-00.37.32:520][493]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.25-00.37.32:520][493]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.25-00.37.32:520][493]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.25-00.37.32:521][493]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.25-00.37.32:522][493]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.25-00.37.32:522][493]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.25-00.37.32:522][493]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.25-00.37.32:522][493]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.25-00.37.32:522][493]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.25-00.37.32:522][493]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.25-00.37.32:526][493]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.25-00.37.32:527][493]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.25-00.37.32:532][493]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.25-00.37.32:532][493]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.25-00.37.32:532][493]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4959AB5E-4309-87A4-85D3-A48BB3CBB955%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=07f852df44d3a8ef9152c9be2fa055a6%7Cb8e395c9f4d04fd780ec6f4c8c5b43b1%7C559f7cec-1dce-4e72-833b-7fa1822f71f4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.25-00.37.32:567][493]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.25-00.37.32:570][493]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.25-00.37.32:570][493]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.25-00.37.32:570][493]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.25-00.37.32:570][493]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.25-00.37.32:570][493]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.25-00.37.32:570][493]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.25-00.37.32:570][493]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.25-00.37.32:570][493]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.25-00.37.32:571][493]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.25-00.37.32:571][493]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.25-00.37.32:573][493]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.25-00.37.32:573][493]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.25-00.37.32:573][493]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.25-00.37.32:573][493]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.25-00.37.32:574][493]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.25-00.37.32:574][493]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.25-00.37.32:574][493]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.25-00.37.32:576][493]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.25-00.37.32:576][493]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.25-00.37.32:576][493]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.25-00.37.32:577][493]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.25-00.37.32:577][493]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.25-00.37.32:577][493]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.25-00.37.32:577][493]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.25-00.37.32:577][493]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.25-00.37.32:577][493]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.25-00.37.32:577][493]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.25-00.37.32:577][493]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.25-00.37.32:595][493]LogExit: Exiting.
+[2018.12.25-00.37.32:655][493]Log file closed, 12/24/18 16:37:32
